@@ -1,5 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is boss
-=============================================================================================================================
+![](https://komarev.com/ghpvc/?username=bosscop12&color=green)
+<img
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlkNDI2bXcwMjliY3pldWZ5dGwxZHI5NWQxaGJhaG0zcXduY2w2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Aw9RGkNOmla5PTC0z/giphy.gif" width="100" height="100" />
+============================================================================================
+=================================
+
 
 AI Engineer
 -----------
